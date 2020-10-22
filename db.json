@@ -1,0 +1,43 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "name": "Andrea",
+      "email": "andreadb@mit.edu",
+      "balance": 3060,
+      "password": "12345",
+      "transactions": [
+        10,
+        40,
+        10,
+        3000
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Patricia",
+      "email": "paty@gmail.com",
+      "balance": 3100,
+      "password": "12345",
+      "transactions": [
+        150,
+        -40,
+        -10,
+        3000
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Vivi",
+      "email": "vivi@gmail.com",
+      "balance": 10,
+      "password": "12345",
+      "transactions": [
+        10,
+        40,
+        -10,
+        -30
+      ]
+    }
+  ]
+}
